@@ -85,7 +85,7 @@
   ],
   "gallery": [
     {"id": 1, "img": "plantation"},
-    {"id": 2, "img": "rawBeans"},
-    { "id": 3, "img": "roastedBeans"}
+    {"id": 2, "img": "raw_beans"},
+    { "id": 3, "img": "roasted_beans"}
   ]
 }
